@@ -1,0 +1,31 @@
+{
+  "_id": "req_0dce04cffa9f460fa478d5d6df8a2f49",
+  "parentId": "wrk_a8ca5cc846f84af894db66f559c2db7a",
+  "modified": 1687129202178,
+  "created": 1687129202178,
+  "url": "http://localhost:3000/create",
+  "name": "Create",
+  "description": "",
+  "method": "POST",
+  "body": {
+    "mimeType": "application/json",
+    "text": "{\n\t\"name\": \"Nikola\",\n\t\"email\": \"nikola@gmai.com\",\n\t\"phone\": \"3117742523\"\n}"
+  },
+  "parameters": [],
+  "headers": [
+    {
+      "name": "Content-Type",
+      "value": "application/json"
+    }
+  ],
+  "authentication": {},
+  "metaSortKey": -1686914679534.75,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

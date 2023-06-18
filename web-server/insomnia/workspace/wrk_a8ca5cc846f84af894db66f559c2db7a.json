@@ -1,0 +1,10 @@
+{
+  "_id": "wrk_a8ca5cc846f84af894db66f559c2db7a",
+  "parentId": null,
+  "modified": 1687128307126,
+  "created": 1687128307126,
+  "name": "Golang: Servidor",
+  "description": "",
+  "scope": "collection",
+  "_type": "workspace"
+}

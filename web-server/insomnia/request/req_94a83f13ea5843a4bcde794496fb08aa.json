@@ -1,0 +1,23 @@
+{
+  "_id": "req_94a83f13ea5843a4bcde794496fb08aa",
+  "parentId": "wrk_a8ca5cc846f84af894db66f559c2db7a",
+  "modified": 1687128331370,
+  "created": 1687128331370,
+  "url": "http://localhost:3000/api",
+  "name": "Home",
+  "description": "",
+  "method": "POST",
+  "body": {},
+  "parameters": [],
+  "headers": [],
+  "authentication": {},
+  "metaSortKey": -1686985889874.5,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "req_41d6882a4acc450ba492a7c9e1fd2667",
+  "parentId": "wrk_a8ca5cc846f84af894db66f559c2db7a",
+  "modified": 1687128310554,
+  "created": 1687128310554,
+  "url": "http://localhost:3000",
+  "name": "Root",
+  "description": "",
+  "method": "GET",
+  "body": {},
+  "parameters": [],
+  "headers": [],
+  "authentication": {},
+  "metaSortKey": -1687128310554,
+  "isPrivate": false,
+  "settingStoreCookies": true,
+  "settingSendCookies": true,
+  "settingDisableRenderRequestBody": false,
+  "settingEncodeUrl": true,
+  "settingRebuildPath": true,
+  "settingFollowRedirects": "global",
+  "_type": "request"
+}

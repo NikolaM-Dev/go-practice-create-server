@@ -1,0 +1,13 @@
+{
+  "_id": "env_8251237e9de527a451bf8b91b1faf2e3e117e7c7",
+  "parentId": "wrk_a8ca5cc846f84af894db66f559c2db7a",
+  "modified": 1687128307129,
+  "created": 1687128307129,
+  "name": "Base Environment",
+  "data": {},
+  "dataPropertyOrder": null,
+  "color": null,
+  "isPrivate": false,
+  "metaSortKey": 1687128307129,
+  "_type": "environment"
+}
